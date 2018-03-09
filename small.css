@@ -1,0 +1,175 @@
+/*
+Theme Name: Bateswood C. PC screen
+Theme URI:
+Description:
+Version: 1.0
+Author: Bateswood Co. Webmaster
+Author URI:
+*/
+
+
+    body, html
+	{
+	   height: 100%;
+	}
+
+
+    .container
+	{
+	  background-image: url('https://static.pexels.com/photos/171579/pexels-photo-171579.jpeg');
+  	  background-attachment: fixed;
+   	  background-position: center;
+    	  background-repeat: no-repeat;
+    	  background-size: cover;
+	  height: 100%;
+	}
+
+     .shading 
+	{
+	  background-color: rgba(0,0,0,.45);
+	  height: 100%;
+	}
+
+
+     .menuBar
+	{
+	  display: table;   /* Allow the centering to work */
+	  margin: 0 auto;
+
+	}
+
+
+     .title
+	{
+  	  width:70%; 
+   	  margin-left:auto; 
+   	  margin-right:auto;
+	  position: relative;
+	  height: 500px;
+	}
+
+   .scroll
+	{
+	  height: 300px;
+	  background-color: rgb(225,225,225); 
+	}
+
+
+    .logo
+	{
+	   height: 90%;
+	   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Glaciar_icon.svg/128px-Glaciar_icon.svg.png');
+   	   background-position: center;
+    	   background-repeat: no-repeat;
+	}
+
+
+
+
+     ul
+	{
+  	  list-style-type: none;
+   	  margin: 0;
+   	  padding: 0;
+    	  overflow: hidden;
+
+	}
+     
+     li
+	{
+  	  float: left;
+	}
+
+
+      .centerNav
+	{
+   	  border-right:1px solid #bbb;
+   	  border-left:1px solid #bbb;
+	}
+
+
+
+
+     li a
+	{
+	  font-size: 15px;
+  	  font-family: "Trebuchet MS";
+  	  display: block;
+  	  color: white;
+  	  text-align: center;
+   	  padding: 14px 16px;
+   	  text-decoration: none;
+	}
+
+
+     li a:hover
+	{
+	  color: black
+	}
+
+
+
+
+
+     table
+	{
+   	  margin: auto; 
+  	  color: white;
+	  border: 2px solid white;
+	}
+
+     th
+	{
+	  font-size: 40px;
+  	  font-family: "Trebuchet MS";
+  	  text-align: center;
+	  padding-left: 5px;
+	  padding-right: 5px;
+
+	}
+
+
+     td
+	{
+	  font-size: 15px;
+  	  font-family: "Trebuchet MS";
+  	  text-align: center;
+ 
+	}    
+
+
+   .splash table
+	{
+	  margin-top: 150px;
+	}
+
+   .subTitle
+	{	
+	  height: 90%;
+	  margin: 0 auto;
+	}
+
+   .buffer
+	{
+	  height: 5%;
+	}
+ 
+
+   .content
+	{
+	  width:60%;
+   	  margin-left:auto; 
+   	  margin-right:auto;
+	}
+
+
+   .content p 
+	{
+	  font-size: 20px;
+  	  font-family: "Trebuchet MS";
+  	  display: block;
+  	  color: white;
+  	  text-align: center;
+   	  padding: 14px 16px;
+   	  text-decoration: none;
+	}
