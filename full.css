@@ -190,7 +190,8 @@ Author URI:
 	padding-right: 15px;	
 	}
 
-  .content a
+  .content table a
 	{
-	color: red;	
+	color: white;
+	text-decoration: none;
 	}
