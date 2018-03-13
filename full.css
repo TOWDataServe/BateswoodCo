@@ -173,3 +173,19 @@ Author URI:
    	  padding: 14px 16px;
    	  text-decoration: none;
 	}
+
+  .content table
+	{
+	  margin: auto; 
+  	  color: white;
+	  border: none;
+	}
+
+  .content td
+        {
+	font-size: 15px;
+  	font-family: "Trebuchet MS";
+  	text-align: center;
+	padding-left: 15px;
+	padding-right: 15px;	
+	}
