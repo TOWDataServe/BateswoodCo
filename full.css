@@ -195,3 +195,9 @@ Author URI:
 	color: white;
 	text-decoration: none;
 	}
+
+ .content table a:hover
+	{
+	color: black;
+	text-decoration: underline;
+	}
