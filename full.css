@@ -212,6 +212,7 @@ Author URI:
 	//background-color: rgba(120,120,120,.80);
    display: block;
    overflow: auto; 
+	color: white;
 	}
 
    .cards p
