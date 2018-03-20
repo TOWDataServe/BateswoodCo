@@ -181,9 +181,9 @@ Author URI:
 	width: 375px;
 	margin-left: auto; 
    	margin-right:auto;
-	background-color: rgba(20,20,20,.80);
-   display: block;
-   overflow: auto; 
+	//background-color: rgba(20,20,20,.80);
+        display: block;
+        overflow: auto; 
 	}
 
    .cards h1
