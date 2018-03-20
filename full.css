@@ -200,3 +200,136 @@ Author URI:
 	{
 	color: black;
 	}
+
+
+ .cards 
+	{
+	height: 60%;
+	width: 375px;
+	//float: left;
+	margin-left: 12.5%; 
+   	margin-right:auto;
+	background-color: rgba(120,120,120,.80);
+   display: block;
+   overflow: auto; 
+	}
+
+   .cards h1
+	{
+	  text-align: center;
+	}
+
+
+
+
+
+	
+  .upcomingTable 
+	{
+   display: block;
+   overflow: auto;
+   height: 150px;
+	}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+.button {
+    background-color: rgba(66, 244, 152,.20);
+    border: none;
+    color: white;
+    padding: 2px 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 1px solid rgba(66, 244, 152,.90);
+}
+
+.button:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: rgba(66, 244, 152, .99);
+}
+
+
+
+
+
+
+
+   .cardTableDiv th
+	{
+	  font-size: 40px;
+  	  font-family: "Trebuchet MS";
+  	  text-align: center;
+          background-image: url('https://openphoto.net/volumes/sizes/sarabbit/18782/2.jpg'); 
+	  background-position: center;
+    	  background-size: cover;
+	  padding-left: 5px;
+	  padding-right: 5px;
+	  height: 60px;
+	  text-shadow: 1px 1px rgba(0,0,0,.80)
+
+	}
+
+   .cardTable
+	{	
+	background-color: rgba(255, 204, 102,.90);
+	}
+
+
+    .cardTableDiv td
+	{
+	  font-size: 15px;
+  	  font-family: "Trebuchet MS";
+  	  text-align: center;
+	  min-height: 60px;
+          min-width: 25px;
+          max-width: 60px;
+	text-align: left;
+ 
+	}   
+
+    .cardFooter td
+	{
+	  font-size: 15px;
+  	  font-family: "Trebuchet MS";
+  	  text-align: center;
+	  height: 20px;	  
+	} 
+
+
+    .footerDivider
+	{
+	border-right: 1px solid white;
+	} 
+
+  .cardTableSpacer
+	{
+         height: 10px;
+	}
+
+
+
+
+
+
+
