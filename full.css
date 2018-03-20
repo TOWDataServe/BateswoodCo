@@ -212,17 +212,16 @@ Author URI:
 	//background-color: rgba(120,120,120,.80);
    display: block;
    overflow: auto; 
-	color: red;
 	}
 
-   .cards p
+ /*  .cards p
 	{
 	  text-align: center;
 	  color: red;
 	  font-size: 40px;
   	  font-family: "Trebuchet MS";
 	}
-
+*/
 
 	
   .upcomingTable 
