@@ -209,7 +209,7 @@ Author URI:
 	//float: left;
 	margin-left: 12.5%; 
    	margin-right:auto;
-	background-color: rgba(120,120,120,.80);
+	//background-color: rgba(120,120,120,.80);
    display: block;
    overflow: auto; 
 	}
