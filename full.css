@@ -205,7 +205,7 @@ Author URI:
  .cards 
 	{
 	height: 60%;
-	width: 375px;
+	//width: 375px;
 	//float: left;
 	margin-left: 12.5%; 
    	margin-right:auto;
