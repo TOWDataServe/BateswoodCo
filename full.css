@@ -205,14 +205,14 @@ Author URI:
  .cards 
 	{
 	height: 60%;
-	width: 30%;
-	//width: 375px;
+	//width: 30%;
+	width: 375px;
 	//float: left;
 	margin-left: 12.5%; 
    	margin-right:auto;
 	//background-color: rgba(120,120,120,.80);
-   display: block;
-   overflow: auto; 
+        display: block;
+        overflow: auto; 
 	}
 
    .cards p
@@ -280,7 +280,7 @@ Author URI:
 	  font-size: 40px;
   	  font-family: "Trebuchet MS";
   	  text-align: center;
-          background-image: url('https://openphoto.net/volumes/sizes/sarabbit/18782/2.jpg'); 
+          background-image: url('https://yarn-cdn-weblinc.netdna-ssl.com/media/W1siZiIsIjIwMTYvMDgvMjMvMTIvMjMvMjQvODg0L25ld3lhcm5ncmlkLmpwZyJdLFsicCIsIm9wdGltIl1d/newyarngrid.jpg?sha=d16ab4a3545ad385');  
 	  background-position: center;
     	  background-size: cover;
 	  padding-left: 5px;
