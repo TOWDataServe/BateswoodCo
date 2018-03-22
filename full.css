@@ -292,6 +292,7 @@ Author URI:
 
    .cardTable
 	{	
+	max-width: 85%;
 	background-color: rgba(255, 204, 102,.90);
 	}
 
