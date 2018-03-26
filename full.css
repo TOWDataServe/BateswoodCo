@@ -336,7 +336,7 @@ Author URI:
         display: block;
         overflow: auto;
 	text-align: center; 
-        float: right;
+        float: center;
 	//margin-left: 50%; 
    	//margin-right:auto;
 	//margin: auto;
