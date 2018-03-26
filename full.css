@@ -207,10 +207,11 @@ Author URI:
 	height: 60%;
 	//width: 30%;
 	width: 375px;
-	//float: left;
-	margin-left: 12.5%; 
-   	margin-right:auto;
+	float: left;
+	//margin-left: 12.5%; 
+   	//margin-right:auto;
 	//background-color: rgba(120,120,120,.80);
+	margin: auto;
         display: block;
         overflow: auto; 
 	}
@@ -328,6 +329,18 @@ Author URI:
          height: 10px;
 	}
 
+.rightZone{
+	height: 60%;
+	width: 200px;
+	background-color: rgba(52,207,130, .85);
+        display: block;
+        overflow: auto;
+	text-align: center; 
+        float: right;
+	//margin-left: 50%; 
+   	//margin-right:auto;
+	margin: auto;
+}
 
 
 
