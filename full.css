@@ -329,7 +329,8 @@ Author URI:
          height: 10px;
 	}
 
-.rightZone{
+.rightZone
+	{
 	height: 60%;
 	width: 250px;
 	background-color: rgba(52,207,130, .85);
@@ -340,7 +341,8 @@ Author URI:
 	//margin-left: 50%; 
    	//margin-right:auto;
 	//margin: auto;
-}
+	color: white;
+	}
 
 
 
