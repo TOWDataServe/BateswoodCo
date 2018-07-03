@@ -344,7 +344,7 @@ Author URI:
 	color: white;
 	}
 
-.fuCards p
+.fuCards
 	{
 	color:rgb(255,255,255);
 	height:300px;
@@ -352,6 +352,8 @@ Author URI:
 	overflow:auto;
 	text-align:center;
 	float:right;
+	border-style: solid;
+        border-width: 5px;
 	}	
 
 
