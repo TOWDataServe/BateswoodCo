@@ -344,12 +344,12 @@ Author URI:
 	color: white;
 	}
 
-p.fuCards
+.fuCards p
 	{
 	color:rgb(255,255,255);
 	height:300px;
 	weight:300px;
-	overflow:auto;
+	margin: 0;
 	text-align:center;
 	float:left;
 	border-style: solid;
