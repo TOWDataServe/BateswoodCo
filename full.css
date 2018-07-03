@@ -344,7 +344,15 @@ Author URI:
 	color: white;
 	}
 
-
+.fuCards
+	{
+	color:rgb(255,255,255);
+	height:300px;
+	weight:300px;
+	overflow:auto;
+	text-align:center;
+	float:right;
+	}	
 
 
 
