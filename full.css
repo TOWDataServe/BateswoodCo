@@ -346,6 +346,7 @@ Author URI:
 
 .fuContent
 	{
+	display: block;
 	height: 60%;
 	width: 500px;
 	background-color: rgba(52,207,130, .85);
